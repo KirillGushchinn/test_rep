@@ -5,8 +5,12 @@
 
 - git status - получить от git инофрмацию о его текущем состоянии
 
+Отсупление на семинаре (лучше оставить)
 1)
 git add "название файла"
 git commit -m "comment"
 2)
 git commit -am "auto comment"
+
+
+
