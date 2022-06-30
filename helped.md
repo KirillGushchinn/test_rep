@@ -13,5 +13,11 @@ git commit -m "comment"
 2)
 git commit -am "auto comment"
 
+git log (показывает все версии изменения файла от коммит)
+git checkout (позволяет откатиться на нужную версию файла)
 
+git diff (показывает все текущие изменения файла от его последней версии)
 
+СсылОчка со справочником для работы по Markdown **https://docs.microsoft.com/ru-ru/contribute/markdown-reference**
+
+*Не брат ты мне, гнида черножопая* 
