@@ -8,6 +8,7 @@
 Отсупление на семинаре (лучше оставить)
 1)
 git add "название файла"
+git add . добавляет все файлы в отслеживаемые
 git commit -m "comment"
 2)
 git commit -am "auto comment"
