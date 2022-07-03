@@ -22,3 +22,5 @@ git commit -am "auto comment"
 
 *Не брат ты мне, гнида черножопая* 
 ![alt text](1.jpg)
+
+Семинар № 2
